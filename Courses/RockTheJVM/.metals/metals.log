@@ -1,0 +1,151 @@
+2025.08.14 19:59:53 INFO  Started: Metals version 1.6.2 in folders '/home/cosmatrexis/devel/learning-projects/RockTheJVM' for client Visual Studio Code 1.103.0.[0m
+2025.08.14 19:59:55 INFO  running '/home/cosmatrexis/.local/share/coursier/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2025.08.14 19:59:55 INFO  no build target found for /home/cosmatrexis/devel/learning-projects/RockTheJVM/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.08.14 19:59:55 WARN  no build target for: /home/cosmatrexis/devel/learning-projects/RockTheJVM/project/metals.sbt[0m
+2025.08.14 19:59:55 WARN  no build target for: /home/cosmatrexis/devel/learning-projects/RockTheJVM/project/project/metals.sbt[0m
+2025.08.14 19:59:56 ERROR [info] [launcher] getting org.scala-sbt sbt 1.11.4  (this may take some time)...[0m
+2025.08.14 19:59:58 INFO  no build target found for /home/cosmatrexis/devel/learning-projects/RockTheJVM/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.6[0m
+2025.08.14 20:00:00 INFO  [info] welcome to sbt 1.11.4 (Oracle Corporation Java 21.0.8)[0m
+2025.08.14 20:00:03 INFO  [info] loading settings for project rockthejvm-build-build from metals.sbt...[0m
+2025.08.14 20:00:03 INFO  [info] loading project definition from /home/cosmatrexis/devel/learning-projects/RockTheJVM/project/project[0m
+2025.08.14 20:00:06 INFO  [info] loading settings for project rockthejvm-build from metals.sbt...[0m
+2025.08.14 20:00:06 INFO  [info] loading project definition from /home/cosmatrexis/devel/learning-projects/RockTheJVM/project[0m
+2025.08.14 20:00:08 INFO  [success] Generated .bloop/rockthejvm-build.json[0m
+2025.08.14 20:00:08 INFO  [success] Total time: 2 s, completed Aug 14, 2025, 8:00:08 PM[0m
+2025.08.14 20:00:10 INFO  [info] loading settings for project root from build.sbt...[0m
+2025.08.14 20:00:10 INFO  [info] set current project to RockTheJVM (in build file:/home/cosmatrexis/devel/learning-projects/RockTheJVM/)[0m
+2025.08.14 20:00:10 INFO  [warn] scala3-library_3-3.3.6-sources.jar no longer exists at /C:/Users/srall/AppData/Local/Coursier/Cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.6/scala3-library_3-3.3.6-sources.jar[0m
+2025.08.14 20:00:11 INFO  [success] Generated .bloop/root.json[0m
+2025.08.14 20:00:11 INFO  [success] Generated .bloop/root-test.json[0m
+2025.08.14 20:00:11 INFO  [success] Total time: 1 s, completed Aug 14, 2025, 8:00:11 PM[0m
+2025.08.14 20:00:11 INFO  time: ran 'sbt bloopInstall' in 16s[0m
+2025.08.14 20:00:11 INFO  running '/home/cosmatrexis/.local/share/coursier/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2025.08.14 20:00:13 INFO  [info] welcome to sbt 1.11.4 (Oracle Corporation Java 21.0.8)[0m
+2025.08.14 20:00:13 INFO  [info] loading settings for project rockthejvm-build-build from metals.sbt...[0m
+2025.08.14 20:00:15 INFO  [info] loading project definition from /home/cosmatrexis/devel/learning-projects/RockTheJVM/project/project[0m
+2025.08.14 20:00:15 INFO  [info] loading settings for project rockthejvm-build from metals.sbt...[0m
+2025.08.14 20:00:16 INFO  [info] loading project definition from /home/cosmatrexis/devel/learning-projects/RockTheJVM/project[0m
+2025.08.14 20:00:18 INFO  [success] Generated .bloop/rockthejvm-build.json[0m
+2025.08.14 20:00:18 INFO  [success] Total time: 3 s, completed Aug 14, 2025, 8:00:18 PM[0m
+2025.08.14 20:00:18 INFO  [info] loading settings for project root from build.sbt...[0m
+2025.08.14 20:00:18 INFO  [info] set current project to RockTheJVM (in build file:/home/cosmatrexis/devel/learning-projects/RockTheJVM/)[0m
+2025.08.14 20:00:18 INFO  [success] Generated .bloop/root.json[0m
+2025.08.14 20:00:18 INFO  [success] Generated .bloop/root-test.json[0m
+2025.08.14 20:00:18 INFO  [success] Total time: 0 s, completed Aug 14, 2025, 8:00:19 PM[0m
+2025.08.14 20:00:20 INFO  time: ran 'sbt bloopInstall' in 8.21s[0m
+2025.08.14 20:00:20 INFO  Attempting to connect to the build server...[0m
+2025.08.14 20:00:20 INFO  No running Bloop server found, starting one.[0m
+2025.08.14 20:00:20 INFO  Starting compilation server[0m
+2025.08.14 20:00:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/cosmatrexis/devel/learning-projects/RockTheJVM/.metals/bsp.trace.json or /home/cosmatrexis/.cache/metals/bsp.trace.json[0m
+2025.08.14 20:00:22 INFO  Attempting to connect to the build server...[0m
+2025.08.14 20:00:22 INFO  Found a Bloop server running[0m
+2025.08.14 20:00:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/cosmatrexis/devel/learning-projects/RockTheJVM/project/.metals/bsp.trace.json or /home/cosmatrexis/.cache/metals/bsp.trace.json[0m
+2025.08.14 20:00:22 INFO  time: Connected to build server in 2.51s[0m
+2025.08.14 20:00:22 INFO  Connected to Build server: Bloop v2.0.13[0m
+2025.08.14 20:00:22 INFO  time: Imported build in 0.15s[0m
+2025.08.14 20:00:30 INFO  time: indexed workspace in 7.31s[0m
+2025.08.14 20:01:54 INFO  compiling root (2 scala sources)[0m
+2025.08.14 20:01:58 INFO  time: compiled root in 4.33s[0m
+Aug 14, 2025 8:28:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 327
+Aug 14, 2025 8:28:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 598
+Aug 14, 2025 8:29:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 753
+2025.08.14 20:29:22 INFO  compiling root (1 scala source)[0m
+2025.08.14 20:29:23 INFO  time: compiled root in 1.69s[0m
+Aug 14, 2025 8:29:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1014
+2025.08.14 20:33:18 INFO  compiling root (1 scala source)[0m
+2025.08.14 20:33:19 INFO  time: compiled root in 1.39s[0m
+Aug 14, 2025 8:33:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2182
+2025.08.14 20:34:16 INFO  compiling root (1 scala source)[0m
+2025.08.14 20:34:16 INFO  time: compiled root in 0.6s[0m
+2025.08.14 20:34:23 INFO  compiling root (1 scala source)[0m
+2025.08.14 20:34:23 INFO  time: compiled root in 0.54s[0m
+Aug 14, 2025 8:34:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3661
+Aug 14, 2025 8:35:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3755
+Aug 14, 2025 8:35:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3756
+Aug 14, 2025 8:35:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3787
+Aug 14, 2025 8:35:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3794
+Aug 14, 2025 8:35:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3922
+2025.08.14 20:35:56 INFO  compiling root (1 scala source)[0m
+2025.08.14 20:35:58 INFO  time: compiled root in 1.45s[0m
+2025.08.14 20:36:01 INFO  compiling root (1 scala source)[0m
+2025.08.14 20:36:01 INFO  time: compiled root in 0.53s[0m
+2025.08.14 20:36:27 INFO  compiling root (1 scala source)[0m
+2025.08.14 20:36:27 INFO  time: compiled root in 0.43s[0m
+2025.08.14 20:36:34 INFO  compiling root (1 scala source)[0m
+2025.08.14 20:36:34 INFO  time: compiled root in 0.39s[0m
+Aug 14, 2025 8:36:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 14, 2025 8:36:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Aug 14, 2025 8:37:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4644
+Aug 14, 2025 8:37:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4789
+Aug 14, 2025 8:37:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4821
+2025.08.14 20:37:49 INFO  compiling root (1 scala source)[0m
+2025.08.14 20:37:50 INFO  time: compiled root in 1.5s[0m
+Aug 14, 2025 8:38:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5200
+2025.08.14 20:38:17 INFO  compiling root (1 scala source)[0m
+2025.08.14 20:38:17 INFO  time: compiled root in 0.57s[0m
+Aug 14, 2025 8:43:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5356
+Aug 14, 2025 8:43:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5369
+Aug 14, 2025 8:43:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5370
+2025.08.14 20:43:16 INFO  compiling root (1 scala source)[0m
+2025.08.14 20:43:18 INFO  time: compiled root in 1.99s[0m
+2025.08.14 20:43:22 INFO  compiling root (1 scala source)[0m
+2025.08.14 20:43:22 INFO  time: compiled root in 0.44s[0m
+Aug 14, 2025 8:44:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5799
+Aug 14, 2025 8:44:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6069
+Aug 14, 2025 8:44:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6281
+Aug 14, 2025 8:44:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6406
+Aug 14, 2025 8:44:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6407
+Aug 14, 2025 8:45:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6905
+2025.08.14 20:45:27 INFO  compiling root (1 scala source)[0m
+2025.08.14 20:45:29 INFO  time: compiled root in 2.07s[0m
+2025.08.14 20:45:30 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:33 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:35 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:36 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:37 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:38 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:39 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:40 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:41 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:41 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:42 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:43 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:44 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:45 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:47 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:47 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:49 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:51 WARN  Could not load snapshot text for /home/cosmatrexis/devel/learning-projects/RockTheJVM/src/main/scala/org/fractalis/rockthejvm/scala3essentials/part1basics/Expressions.scala[0m
+2025.08.14 20:45:52 INFO  compiling root (1 scala source)[0m
+2025.08.14 20:45:52 INFO  time: compiled root in 0.63s[0m
+2025.08.14 20:58:37 INFO  Shutting down server[0m
+2025.08.14 20:58:37 INFO  shutting down Metals[0m
+2025.08.14 20:58:37 INFO  Shut down connection with build server.[0m
+2025.08.14 20:58:37 INFO  Shut down connection with build server.[0m
+2025.08.14 20:58:37 INFO  Exiting server[0m
